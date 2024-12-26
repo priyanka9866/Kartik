@@ -1,0 +1,7 @@
+Test Case
+FTC1. create org and verify
+FTC2. create org with industry and verify
+FTC3. create org with phone num
+FTC4. create contact with last name
+FTC5. create contact with support date
+ITC1. create contact with existing org
